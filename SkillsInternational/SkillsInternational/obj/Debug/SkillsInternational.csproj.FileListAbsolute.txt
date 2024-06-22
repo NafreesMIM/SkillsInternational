@@ -1,0 +1,22 @@
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.exe.config
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.exe
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.pdb
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.AssemblyReference.cache
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.frmLogin.resources
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.Properties.Resources.resources
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.GenerateResource.cache
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.CoreCompileInputs.cache
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.exe
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.pdb
+C:\Users\AryaLabs\Documents\Global EHelp\Ditec Project - Anusha\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.frmStudent_Registration.resources
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.exe.config
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.exe
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.pdb
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.AssemblyReference.cache
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.frmLogin.resources
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.Properties.Resources.resources
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.frmStudent_Registration.resources
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.GenerateResource.cache
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.CoreCompileInputs.cache
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.exe
+D:\Projects\Aryans(Pvt)Ltd\C#\SkillsInternational\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.pdb
